@@ -1,4 +1,4 @@
-# gshit
+# gshit (Work in progress)
 
 ## Motivação (são muitas)
 

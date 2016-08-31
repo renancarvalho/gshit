@@ -1,0 +1,52 @@
+body {
+				width: 300px;
+				height: 200px;
+			}
+			header {
+				margin: 0 auto;
+				width: 300px;
+				text-align: center;
+				margin-bottom: 20px
+			}
+			section {
+		    position: relative;
+		    margin: 0 auto;
+		    text-align: center;
+		    height: 100px;
+        background-color: #ffc488;
+			}
+			button {
+				border-radius: 70px;
+    		width: 70px;
+    		height: 70px;
+    		cursor: pointer;
+		    background-color: transparent;
+		    outline: none;
+			}
+			.gshow {
+		    width: 50%;
+		    position: absolute;
+  			height: 80px;
+			}
+			.odeio {
+				right: 0;
+    		top: 15px;
+			}
+			.odeio > button {
+  			border: solid 1px red;
+			}
+			.odeio > button:hover {
+  			background-color: red;
+  			color:white;
+			}
+			.curto {
+				left: 0;
+    		top: 15px;
+			}
+			.curto > button {
+  			border: solid 1px green;
+			}
+			.curto > button:hover {
+  			background-color: green;
+  			color:white;
+			}
