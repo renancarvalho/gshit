@@ -2,6 +2,8 @@
 
 ## Motivação (são muitas)
 
+Eu não preciso ver as noticias (horriveis) do gshow, então eu decidi criar essa chrome extension que simplesmente remove todo conteúdo do Gshow da Home.
+
 [![Screen Shot 2016-08-31 at 11.17.42.png](https://s18.postimg.org/4kk3o09kp/Screen_Shot_2016_08_31_at_11_17_42.png)](https://postimg.org/image/ncvyrl5yt/)
 
 [![Screen Shot 2016-08-31 at 11.18.20.png](https://s21.postimg.org/g9ga0z987/Screen_Shot_2016_08_31_at_11_18_20.png)](https://postimg.org/image/j3jfefbeb/)
@@ -29,7 +31,7 @@
   
 - Cola na url chrome://extensions
   
-- Clica em "Load unpacked extension" e vai na pasta que ta o gshit
+- Clica em "Load unpacked extension" e vai na pasta que ta o gshit(Nossa extensão top).
   
 - Pronto :)
 
