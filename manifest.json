@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+
+  "name": "Globo.com menos chato.",
+  "description": "Essa extensão some com todo conteudo lixo do GSHOW",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "Gshit"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://www.globo.com/*"],
+      "js": ["gshit.js"],
+      "css": ["gshit.css"]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
