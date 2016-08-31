@@ -27,7 +27,7 @@ Eu não preciso ver as noticias (horriveis) do gshow, então eu decidi criar ess
 
 ### Como instalar
 
-- git clone
+- `git clone https://github.com/renancarvalho/gshit.git`
 
 - Acesse [chrome://extensions](chrome://extensions)
 
