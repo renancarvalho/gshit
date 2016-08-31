@@ -17,22 +17,24 @@ Eu não preciso ver as noticias (horriveis) do gshow, então eu decidi criar ess
 ## Um "novo" globo.com.
 
   [![Screen Shot 2016-08-31 at 11.12.17.png](https://s22.postimg.org/h2hq3kphd/Screen_Shot_2016_08_31_at_11_12_17.png)](https://postimg.org/image/b1k16i2v1/)
-  
+
  [![Screen Shot 2016-08-31 at 11.12.06.png](https://s13.postimg.org/och2xo28n/Screen_Shot_2016_08_31_at_11_12_06.png)](https://postimg.org/image/zc2a99snn/)
- 
+
  [![Screen Shot 2016-08-31 at 11.11.58.png](https://s18.postimg.org/wp1n0t1dl/Screen_Shot_2016_08_31_at_11_11_58.png)](https://postimg.org/image/hgbpn17p1/)
- 
+
  [![Screen Shot 2016-08-31 at 11.11.48.png](https://s21.postimg.org/w3a85p9br/Screen_Shot_2016_08_31_at_11_11_48.png)](https://postimg.org/image/9rcfcba7n/)
- 
- 
+
+
 ### Como instalar
 
-- git clone 
-  
-- Cola na url chrome://extensions
-  
-- Clica em "Load unpacked extension" e vai na pasta que ta o gshit(Nossa extensão top).
-  
+- `git clone https://github.com/renancarvalho/gshit.git`
+
+- Acesse [chrome://extensions](chrome://extensions)
+
+- Habilite o "Developer Mode" no canto superior direito
+
+- Clique em "Load unpacked extension" e vai na pasta que ta o gshit(Nossa extensão top).
+
 - Pronto :)
 
 ### TODO:
@@ -41,7 +43,6 @@ Eu não preciso ver as noticias (horriveis) do gshow, então eu decidi criar ess
   - Tem gente que não gosta de esportes, então seria legal deixar o usuario escolher o que ele não quer ver.
   - Quando começar o BBB então vai ser lindo não ver nenhum conteudo relacionado ao BBB.
   - Publicar na chrome store.
-  
+
 
 IMPORTANTE ?! : Eu curto a globo.com, só não curto as noticias do gshow na home.
-  
