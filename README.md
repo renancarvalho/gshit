@@ -43,6 +43,7 @@ Eu não preciso ver as noticias (horriveis) do gshow, então eu decidi criar ess
   - Tem gente que não gosta de esportes, então seria legal deixar o usuario escolher o que ele não quer ver.
   - Quando começar o BBB então vai ser lindo não ver nenhum conteudo relacionado ao BBB.
   - Publicar na chrome store.
+  - Gravar as configurações do usuário.
 
 
 IMPORTANTE ?! : Eu curto a globo.com, só não curto as noticias do gshow na home.

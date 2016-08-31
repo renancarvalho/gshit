@@ -13,11 +13,16 @@
   "content_scripts": [
     {
       "matches": ["http://www.globo.com/*"],
-      "js": ["js/gshit.js"]
+      "js": ["js/index.js"]
     }
   ],
   "permissions": [
     "activeTab",
+    "storage",
     "https://ajax.googleapis.com/"
+  ],
+  "web_accessible_resources": [
+    "style/gshit.css",
+    "style/gshitback.css"
   ]
 }
