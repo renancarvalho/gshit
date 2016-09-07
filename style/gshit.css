@@ -1,11 +1,12 @@
-.home-column--entertainment {
+.gshow,
+.home-column--entertainment,
+.hui-color-entertainment,
+.franja-globosatplay{
 	display: none !important;
 }
-
-.gshow {
-	display: none !important;
-}
-
-.hui-color-entertainment {
-	display: none !important;
+.tag-manager-publicidade-banner_slb_topo,
+.tag-manager-publicidade-banner_slb_meio,
+.tag-manager-publicidade-banner_slb_fim,
+.home-widgets-inferiores {
+	display: none !important; //mostra publicidade
 }
