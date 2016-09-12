@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "Globo.com menos chato.",
-  "description": "Essa extensão some com todo conteudo lixo do GSHOW",
-  "version": "1.0",
+  "description": "Essa extensão remove o conteudo do GSHOW, incluindo publicidade",
+  "version": "1.0.1",
 
   "browser_action": {
     "default_icon": "images/gshit.png",
